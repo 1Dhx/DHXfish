@@ -6,15 +6,16 @@ ___
 ## how to install
 ```
 Pkg update && Pkg upgrade
+```
 
-
+```
 git clone https://github.com/1Dhx/DHXfish
-
-
+```
+```
 cd DHXfish
+```
 
-
-
+```
 python DHXfish.py
 ```
 ___
