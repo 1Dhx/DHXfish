@@ -4,14 +4,19 @@ ___
 This tool is for downloading phishing tools. Wait for updates. New phishing tool>
 ___
 ## how to install
-1. Run `pkg update && pkg upgrade`
+'''
+pkg update && pkg upgrade
+'''
+'''
+git clone https://github.com/1Dhx/DHXfish
+'''
+'''
+cd DHXfish
+'''
 
-1. Run `git clone https://github.com/1Dhx/DHXfish`
-
-1. Run `cd DHXfish`
-
-1. Run `python DHXfish.py`
-
+'''
+python DHXfish.py
+'''
 ___
 ## My group in telegram
 [My-telegram-group](https://t.me/DHXfollowers)
